@@ -11,16 +11,63 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Malfatti, Thawann (2026) Calcium imaging of pyramidal cells and LFP recordings
-  in layer 5 of mouse primary motor cortex (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/002056/draft
+citation: Malfatti, Thawann; Velica, Anna; Winne, Jessica; Ciralli, Barbara; Henriksson,
+  Katharina; Nascimento, George; Leão, Richardson; Kullander, Klas (2026) Calcium
+  imaging of pyramidal cells and LFP recordings in layer 5 of mouse primary motor
+  cortex (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/002056/draft
 contributor:
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/048a87296
+    name: Uppsala University
+    schemaKey: Affiliation
   email: thawann.borges@igp.uu.se
   includeInCitation: true
   name: Malfatti, Thawann
   roleName:
   - dcite:ContactPerson
+  - dcite:Author
+  schemaKey: Person
+- identifier: 0000-0002-4604-2949
+  includeInCitation: true
+  name: Velica, Anna
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- identifier: 0000-0002-5167-1053
+  includeInCitation: true
+  name: Winne, Jessica
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- identifier: 0000-0003-4021-2668
+  includeInCitation: true
+  name: Ciralli, Barbara
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- identifier: 0000-0002-5158-1912
+  includeInCitation: true
+  name: Henriksson, Katharina
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- identifier: 0000-0002-6572-1269
+  includeInCitation: true
+  name: Nascimento, George
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- identifier: 0000-0001-8496-1965
+  includeInCitation: true
+  name: Leão, Richardson
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- identifier: 0000-0001-6418-5460
+  includeInCitation: true
+  name: Kullander, Klas
+  roleName:
+  - dcite:Author
   schemaKey: Person
 dateCreated: '2026-11-12T12:27:02.586375+00:00'
 description: This dataset contains 1-photon calcium imaging (UCLA miniscope, GCaMP6f)
