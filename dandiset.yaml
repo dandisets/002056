@@ -127,7 +127,15 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/002056/versions/draft/assets/
 name: Calcium imaging of pyramidal cells and LFP recordings in layer 5 of mouse primary
   motor cortex
-relatedResource: []
+relatedResource:
+- identifier: 10.7554/eLife.109286.3
+  name: Increased layer 5 Martinotti cell excitation reduces pyramidal cell population
+    plasticity and improves learned motor execution
+  relation: dcite:IsDescribedBy
+  repository: eLife
+  resourceType: dcite:JournalArticle
+  schemaKey: Resource
+  url: https://doi.org/10.7554/eLife.109286.3
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
